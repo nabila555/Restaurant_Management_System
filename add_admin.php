@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $result = mysqli_query($dbc, $query);
 
     if ($result) {
-        header('Location: ../admin_list.php');
+        header('Location:admin_list.php');
     } else {
         echo "Failed to add admin.";
     }

@@ -28,18 +28,8 @@
                         <span class="links_name">Event list</span>
                     </a>
                 </li>
-                <li>
-                    <a href="participants.php">
-                        <i class='bx bx-pie-chart-alt-2'></i>
-                        <span class="links_name">Participants</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="feedback-list.php">
-                        <i class='bx bx-heart'></i>
-                        <span class="links_name">Feedback</span>
-                    </a>
-                </li>
+                
+               
                 <li>
                     <a href="query_list.php">
                         <i class='bx bx-cog'></i>
@@ -94,12 +84,24 @@
                         <span class="links_name">Admin</span>
                     </a>
                 </li>
-                <!-- <li class="log_out">
+                <li>
+                    <a href="feedback-list.php">
+                        <i class='bx bx-heart'></i>
+                        <span class="links_name">Feedback</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="participants.php">
+                        <i class='bx bx-pie-chart-alt-2'></i>
+                        <span class="links_name">Participants</span>
+                    </a>
+                </li>
+                <li>
                     <a href="logout.php">
                         <i class='bx bx-cog'></i>
                         <span class="links_name">Log out</span>
                     </a>
-                </li> -->
+                </li>
             </ul>
         </div>
 

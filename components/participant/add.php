@@ -1,6 +1,6 @@
 <?php
 $dbc = mysqli_connect("localhost", "root", "", "admin")
-or die("Unable to select database");
+    or die("Unable to select database");
 
 session_start();
 
@@ -32,7 +32,7 @@ if (isset($_POST) & !empty($_POST)) {
 
 <head>
 
-    <title>Event Management System | Add Participant</title>
+    <title>Enigma | Add Participant</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"

@@ -365,7 +365,7 @@ if(count($_POST)>0) {
                         </div>
                     </div>
                     <div class="footer-link padding-top--24">
-                        <span>Don't have an account? <a href="#">Sign up</a></span>
+                        <span>Don't have an account? <a href="registration.php">Sign up</a></span>
                     </div>
                 </div>
             </div>
