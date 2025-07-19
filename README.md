@@ -1,0 +1,1 @@
+This is a solo project developed as part of my CSE311: Database Management Systems course. It is a basic Restaurant Management System built using PHP, HTML, CSS, and MySQL. The system allows basic CRUD (Create, Read, Update, Delete) operations and simulates key features needed to manage a small restaurant.
